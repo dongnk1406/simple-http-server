@@ -1,11 +1,11 @@
-package com.stephen.config;
+package com.stephen.httpserver.config;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
 import com.fasterxml.jackson.databind.JsonNode;
-import com.stephen.utils.Json;
+import com.stephen.httpserver.utils.Json;
 
 public class ConfigurationManager {
 

@@ -1,4 +1,4 @@
-package com.stephen.config;
+package com.stephen.httpserver.config;
 
 public class Configuration {
     private int port;
